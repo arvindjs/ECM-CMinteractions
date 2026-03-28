@@ -1,3 +1,8 @@
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5974a382-c556-442d-bee7-c98a6c984750" />
+
+
+<img width="1355" height="898" alt="image" src="https://github.com/user-attachments/assets/6d91d164-3d3c-4c79-8053-4134d776789f" />
+
 ECM-CM interaction mining and analysis notebooks
 
 1. ppi_nw_toplogy_hpc: Notebook containing network curation, analysis, ECM-Med-CM module creation and prelimnary validation.
