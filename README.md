@@ -10,9 +10,6 @@ Do ECM-CM interactions have functional roles in tumors?
 Do these interactions have clinical utility in patient prognostics or treatments?
 
 
-<img width="2220" height="299" alt="image" src="https://github.com/user-attachments/assets/4ce7dad7-64d1-4c87-a7ee-4ece8d092348" />
-
-
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d22c2e95-3fc7-450c-a393-6564fb846adc" />
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2ec9dd6b-dc9e-4089-b626-fa9a19543b76" />
