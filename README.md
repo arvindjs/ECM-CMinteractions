@@ -5,3 +5,7 @@ ECM-CM interaction mining and analysis notebooks
 3. ecm_subtypes : Notebook with analysis of TME subtype association
 4. top_modules_deltacorr: Notebook with identification of significant module-hallmark/module-signature associations and module prioritization.
 5. scRNA : Sc gene expression module scoring and interaction prediction
+6. Therapy_response_ICB: Immune checkpoint blockade Therapy response prediction
+7. partial correlations: PArtial gene-gene correlations and module-module correlation.
+8. stiffness: invtiro ECM module stiffness prediction.
+9. Tidepy: TIDE immune signature predictions comparison vs ECM modules.
