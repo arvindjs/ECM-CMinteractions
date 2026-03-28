@@ -14,6 +14,18 @@ Do these interactions have clinical utility in patient prognostics or treatments
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2ec9dd6b-dc9e-4089-b626-fa9a19543b76" />
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3e81e092-b940-44f5-896e-266ab0d71ff9" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4a71690a-49d4-4381-aa09-67a900b1370f" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9250908e-ab40-4c50-af87-5aa67fe9b94e" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6a8cbef0-d020-4621-87d8-00f7793a2599" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c8e24711-81bc-4256-afc5-e948f997795b" />
+
+
+
 
 ECM-CM interaction mining and analysis notebooks
 
