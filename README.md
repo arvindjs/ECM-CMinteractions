@@ -1,7 +1,21 @@
+
+Extracellullar Matrix and Chromatin interactions in Cancer and Healthy
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5974a382-c556-442d-bee7-c98a6c984750" />
 
+Can we computationally identify interacting ECM and chromatin components?
+What are the proteins that mediate these interactions?
+Do ECM-CM interactions have functional roles in tumors?
+Do these interactions have clinical utility in patient prognostics or treatments?
 
-<img width="1355" height="898" alt="image" src="https://github.com/user-attachments/assets/6d91d164-3d3c-4c79-8053-4134d776789f" />
+
+<img width="2220" height="299" alt="image" src="https://github.com/user-attachments/assets/4ce7dad7-64d1-4c87-a7ee-4ece8d092348" />
+
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d22c2e95-3fc7-450c-a393-6564fb846adc" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2ec9dd6b-dc9e-4089-b626-fa9a19543b76" />
+
 
 ECM-CM interaction mining and analysis notebooks
 
